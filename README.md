@@ -80,3 +80,34 @@ The project includes:
 ---
 
 ## Project Structure
+social-media-engagement-analysis/
+│
+├── notebooks/
+│ └── social_media_engagement.ipynb
+│
+├── data/
+│ └── social_media_engagement1.csv
+│
+├── images/
+│ ├── avg_likes_by_platform.png
+│ └── likes_distribution.png
+│
+└── README.md
+
+
+## How to Run
+
+1. Clone the repository:
+2. Install dependencies:
+3. Open the notebook:
+4. Run all cells from top to bottom.
+
+## Future Improvements
+
+- Analyze impact of posting time on engagement
+- Explore correlation between sentiment and engagement
+- Build predictive models for engagement forecasting
+
+## Author
+
+Built as a data analysis practice project using Google Colab and Python.
